@@ -4,7 +4,7 @@
 > - Any pronouns
 > - I speak English and German (currently learning Spanish)
 
-> ## Hobbies and skills: 
+## Hobbies and skills: 
 > - **art:** traditional and digital
 > - **coding:** Java, HTML/JavaScript/CSS, C++, (open to learn any language)
 > - **music:** singing, piano
