@@ -4,10 +4,18 @@
 > - Any pronouns
 > - I speak English and German (currently learning Spanish)
 
+<p align="center">
+  <img src="https://watermelon.crd.co/assets/images/gallery19/1b67c0f9.gif?v=e2e5e274"/>
+</p>
+
 ## Hobbies and skills: 
-> - **art:** traditional and digital
-> - **coding:** Java, HTML/JavaScript/CSS, C++, (open to learn any language)
-> - **music:** singing, piano
+> - :art: traditional and digital
+> - :computer: Java, HTML/JavaScript/CSS, C++
+> - :notes: singing, piano
+
+<p align="center">
+  <img src="https://watermelon.crd.co/assets/images/gallery19/1b67c0f9.gif?v=e2e5e274"/>
+</p>
 
 ## Hacktober progress :3
 
